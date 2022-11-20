@@ -1,0 +1,33 @@
+
+main {
+    grid-area: main;
+}
+
+
+/*Setup the Body */
+body {
+    background-color: #eafce6;
+    font-size: 23px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 3% 10%;
+}
+
+
+figcaption {
+    padding: 3%;
+}
+
+section {
+    border: #2c5451 4px solid;
+    padding: 3% 3%;
+    text-align: left;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
